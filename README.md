@@ -1,2 +1,2 @@
-# emanueleseminara.github.io
-https://emanueleseminara.github.io/
+# One Page Layout
+https://emanueleseminara.github.io/onepagelayout/
